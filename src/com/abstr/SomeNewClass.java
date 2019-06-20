@@ -13,6 +13,5 @@ public class SomeNewClass {
 
     public void setN(int n) {
         n = i;
-
     }
 }
